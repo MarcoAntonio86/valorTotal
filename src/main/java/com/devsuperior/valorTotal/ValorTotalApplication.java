@@ -54,4 +54,3 @@ public class ValorTotalApplication implements CommandLineRunner {
 		sc.close();
 	}
 }
-//
