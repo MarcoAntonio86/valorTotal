@@ -1,2 +1,2 @@
 # valorTotal
- Projeto Spring Boot de um sistema simples de pedido, em que deve-se calcular valores de desconto e frete e, por conseguinte, o valor total do pedido
+Projeto Spring Boot para cálculo de pedidos, considerando desconto e frete. O sistema recebe os dados do pedido, aplica a porcentagem de desconto e adiciona o valor do frete, gerando o valor total final.
