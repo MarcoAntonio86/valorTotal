@@ -1,4 +1,5 @@
 # valorTotal
+
 O projeto "valorTotal" é uma aplicação desenvolvida em Java utilizando o framework Spring Boot, com o objetivo de calcular o valor final de pedidos, considerando descontos e frete. O sistema recebe os dados do pedido, aplica a porcentagem de desconto especificada e adiciona o valor do frete, resultando no valor total final.
 
  
@@ -45,8 +46,11 @@ valorTotal
 └── pom.xml
 
 ValorTotalApplication.java: Classe principal que inicializa a aplicação Spring Boot.
+
 Pedido.java: Classe que representa o pedido, contendo os itens, percentual de desconto e valor do frete.
+
 Item.java: Classe que representa um item do pedido, com atributos como nome, quantidade e preço unitário.
+
 application.properties: Arquivo de configuração da aplicação.
 
 🚀 Como Executar o Projeto
