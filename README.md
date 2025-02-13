@@ -7,6 +7,7 @@ Cálculo do Valor Total do Pedido: O sistema permite a inserção dos itens do p
 Java: Linguagem de programação utilizada para o desenvolvimento da aplicação.
 Spring Boot: Framework que facilita a criação de aplicações Java standalone e de produção.
 Maven: Ferramenta de automação de compilação utilizada para gerenciamento de dependências e construção do projeto.
+
 📂 Estrutura do Projeto
 A estrutura do projeto segue a convenção padrão do Spring Boot:
 
